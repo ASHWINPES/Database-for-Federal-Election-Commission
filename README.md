@@ -54,6 +54,7 @@ Committees – AnyTransactionFromOneCommmitteeToAnother:- Many to Many
 Query execution analysis:
 
 Problematic queries were:
+
 1.
 SELECT c.CAND_NAME, com.CMTE_NM
 FROM candidate c
